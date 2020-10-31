@@ -1,4 +1,5 @@
-#Closest pair of point
+Closest pair of point
+----------------------
 
 This is implimentation of finding closest pair of points and distance.
 Divide and Conquer approch with O(n log n) time complexity
